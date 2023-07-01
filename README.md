@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/tarunrawal108" target="blank"><img src="https://img.shields.io/twitter/follow/tarunrawal108?logo=twitter&style=for-the-badge" alt="tarunrawal108" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce**
-
 - 🎓 I’m currently learning **Reactjs**
 
 - 💬 Ask me about **Web development**
