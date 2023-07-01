@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **Tarunrawal03@gmail.com**
+- 📫 You can reach me at **Tarunrawal03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
